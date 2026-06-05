@@ -20,7 +20,7 @@ Consolidated transactional, geographic, and product dimension tables into a sing
 * Calculated the raw revenue footprint feature and engineered a clean net profit feature
 ---
 
-## 3. Data Analysis & Empirical Conclusions (The Results)
+## 3. Data Analysis & Empirical Conclusions
 
 ### Key Performance Indicators (KPIs)
 * **Total Gross Revenue Generated:** `$1,598,983,761`
