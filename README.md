@@ -36,7 +36,7 @@ Consolidated transactional, geographic, and product dimension tables into a sing
 * **-** Market scaling reached peak efficiency in 2012, driven by a **+24.90% YoY revenue expansion** that successfully maximized profitability at a historical high of **$83,070,056.18**
 * **-** Discovered an operational divergence in 2015. While revenue remained almost entirely flat (**-1.38% YoY**), net profits dropped disproportionately from **$65.9M to $58.2M**. 
 * **-** Post-2015, the marketplace entered a continuous structural contraction, bottoming out in 2017 with a steep **-29.74% revenue decline** and a period-low profit of **$35,926,071.66**. Because net profit shrank faster than top-line revenue, the trend exposes a high fixed-cost infrastructure that failed to scale down as customer transaction volumes dropped.
-* * **-** Post-2015, the marketplace entered a continuous structural contraction, bottoming out in 2017 with a steep **-29.74% revenue decline** and a period-low profit of **$35,926,071.66**.This trend highlights an inflexible cost structure, where expenses failed to decrease at the same rate as falling sales volumes.
+*  **-** Post-2015, the marketplace entered a continuous structural contraction, bottoming out in 2017 with a steep **-29.74% revenue decline** and a period-low profit of **$35,926,071.66**.This trend highlights an inflexible cost structure, where expenses failed to decrease at the same rate as falling sales volumes.
 
 ## Geographic Portfolio Performance
 
